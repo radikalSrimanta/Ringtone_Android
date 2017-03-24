@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Contact List row -->
+    <dimen name="contact_list_row_img_display_height">68.66dp</dimen>
+    <dimen name="contact_list_row_img_display_marginLeft">11dp</dimen>
+    <dimen name="contact_list_row_btn_connect_width">90.66dp</dimen>
+    <dimen name="contact_list_row_btn_connect_height">33.33dp</dimen>
+    <dimen name="contact_list_row_btn_connect_marginRight">16dp</dimen>
+    <dimen name="contact_list_row_tv_name_width">190dp</dimen>
+    <dimen name="contact_list_row_paddingTop">5dp</dimen>
+    <dimen name="contact_list_row_paddingBottom">5dp</dimen>
+    <dimen name="connection_list_paddingRight">7.5dp</dimen>
+
+    <integer name="contact_list_row_img_display_padding">17</integer>
+
+    <style name="contact_list_row_tv_name_style">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#636363</item>
+    </style>
+
+    <style name="contact_list_row_tv_status_style">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#C5C5C5</item>
+    </style>
+
+    <style name="contact_list_row_tv_contact_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#9C9C9C</item>
+    </style>
+
+    <style name="contact_list_row_btn_connect_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+</resources>

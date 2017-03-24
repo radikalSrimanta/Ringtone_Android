@@ -1,0 +1,1098 @@
+[
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\register_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_image_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_image_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connection_btn_user_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\connection_btn_user_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_popup_text_color_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_popup_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_stop_color_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_stop_color_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_take_picture_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_take_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terms_cancel_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\terms_cancel_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_stop_color_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_stop_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myprofile_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\myprofile_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_update_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_update_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terms_cancel_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\terms_cancel_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terms_accept_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\terms_accept_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_slide_menu.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\btn_slide_menu.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_text_color_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_connect_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\contact_btn_connect_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_slide_menu.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\btn_slide_menu.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terms_accept_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\terms_accept_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_user_btn_upgrade_frnd_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_user_btn_upgrade_frnd_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_greetings_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_greetings_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connection_btn_next_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\connection_btn_next_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_cb_show_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\warning_cb_show_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_remove_image_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_remove_image_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_connection_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_connection_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\RingtoneApplication\\pullDownToRefreshLibrary\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_name_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_name_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_image_pick_color_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_image_pick_color_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_greetings_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\send_greetings_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slider_bg.png",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slider_bg.png"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myprofile_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\myprofile_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_profile_btn_play_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_profile_btn_play_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_text_color_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\RingtoneApplication\\pullDownToRefreshLibrary\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_stop_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_stop_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_profile_btn_play_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_profile_btn_play_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cross.png",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\btn_cross.png"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_cb_show_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\warning_cb_show_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_greetings_row_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\send_greetings_row_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_connection_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_connection_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_start_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_start_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_status_btn_record_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_status_btn_record_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_about_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_about_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_distrust_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_distrust_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\arrow_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_popup_text_color_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_popup_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_image_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_image_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_take_picture_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_take_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greeting_btn_arrow_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\greeting_btn_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_greetings_row_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\send_greetings_row_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_change_pic_dialog_btn_take_picture_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_change_pic_dialog_btn_take_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_gretting_btn_arrow_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\send_gretting_btn_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_btn_recycle_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\chat_btn_recycle_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\cancel_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_status_btn_record_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_status_btn_record_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_distrust_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_distrust_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\RingtoneApplication\\pullDownToRefreshLibrary\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connection_btn_next_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\connection_btn_next_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_btn_recycle_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\chat_btn_recycle_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\RingtoneApplication\\pullDownToRefreshLibrary\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_about_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_about_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_greetings_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\send_greetings_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_user_btn_upgrade_frnd_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_user_btn_upgrade_frnd_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_start_color_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_start_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_gretting_btn_arrow_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\send_gretting_btn_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_remove_image_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_remove_image_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_btn_connect_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\contact_btn_connect_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_image_pick_color_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_image_pick_color_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_help_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_help_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_stop_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_stop_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_start_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_start_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\arrow_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_btn_update_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_btn_update_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slider_bg.png",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slider_bg.png"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\register_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_btn_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\cancel_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_start_color_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\record_start_color_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_help_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_help_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_name_btn_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_name_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_info_change_pic_dialog_btn_take_picture_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_info_change_pic_dialog_btn_take_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_menu_btn_greetings_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\slide_menu_btn_greetings_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_status_btn_audio_selector.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_status_btn_audio_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greeting_btn_arrow_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\greeting_btn_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connection_btn_user_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\connection_btn_user_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.0\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cross.png",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\src\\main\\res\\drawable\\btn_cross.png"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update_status_btn_audio_selector.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\res\\drawable\\update_status_btn_audio_selector.xml"
+    },
+    {
+        "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.0.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+    }
+]

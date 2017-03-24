@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">I Just Call\nTo Say</string>
+    <string name="app_name1">i</string>
+    <string name="gcm_senderID">785902551955</string>
+    <string name="terms">TERMS &amp; CONDITIONS</string>
+    <string name="admob_id">ca-app-pub-6505330724557729/6186837099</string>
+    <string name="version_code">V1.0</string>
+    <string name="warning_message">By clicking on the Accept you agree to usage of this app as stated in the
+			Terms &amp; Conditions. T&amp;Cs can be found here: www.ijustcalled.co.za for your
+			reference/convenience.</string>
+
+</resources>

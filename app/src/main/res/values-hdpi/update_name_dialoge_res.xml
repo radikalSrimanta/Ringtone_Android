@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="update_name_dialogue_rl_dialogue_width">270dp</dimen>
+    <dimen name="update_name_dialogue_rl_dialogue_height">175dp</dimen>
+    <dimen name="update_name_dialogue_tv_name_marginTop">10dp</dimen>
+    <dimen name="update_name_dialogue_et_name_height">45dp</dimen>
+    <dimen name="update_name_dialogue_et_name_width">232.66dp</dimen>
+    <dimen name="update_name_dialogue_et_name_marginTop">6dp</dimen>
+    <dimen name="update_name_dialogue_btn_accept_width">117dp</dimen>
+    <dimen name="update_name_dialogue_btn_accept_marginLeft">19.5dp</dimen>
+    <dimen name="update_name_dialogue_btn_accept_marginTop">8.5dp</dimen>
+    <dimen name="update_name_dialogue_btn_cancel_width">116dp</dimen>
+    <dimen name="update_name_dialogue_btn_cancel_marginRight">15dp</dimen>
+    <dimen name="update_name_dialogue_btn_cancel_marginTop">8.5dp</dimen>
+    <dimen name="update_name_dialogue_rl_border_height">114dp</dimen>
+    <dimen name="update_name_dialogue_rl_border_paddingTop">7dp</dimen>
+    <dimen name="update_name_dialogue_btn_height">48dp</dimen>
+
+    <style name="update_name_dialogue_tv_name_style">
+        <item name="android:textColor">#B22315</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="update_name_dialogue_et_name_style">
+        <item name="android:textColor">#5A5A5A</item>
+        <item name="android:textColorHint">#5A5A5A</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="update_name_dialogue_btn_accept_style">
+        <item name="android:textSize">9pt</item>
+        <item name="android:textColor"> @drawable/update_popup_text_color_selector</item>
+    </style>
+
+</resources>

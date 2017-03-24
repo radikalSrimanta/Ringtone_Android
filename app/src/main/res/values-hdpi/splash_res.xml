@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="splash_pb_validating_marginBottom">65dp</dimen>
+    <dimen name="splash_tv_1_marginTop">55dp</dimen>
+    <dimen name="splash_textView1_marginBottom">15dp</dimen>
+     <dimen name="splash_pb_width">55dp</dimen>
+    
+
+    <style name="splash_spinner_style">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+    </style>
+
+    <style name="splash_version_style">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

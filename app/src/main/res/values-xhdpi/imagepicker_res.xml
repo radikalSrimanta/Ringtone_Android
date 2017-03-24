@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="image_picker_btn_height">134.66dp</dimen>
+    <dimen name="image_picker_btn_width">98dp</dimen>
+    <dimen name="image_picker_tv_marginTop">10dp</dimen>
+    <dimen name="image_picker_tv_marginBottom">11dp</dimen>
+    <dimen name="image_picker_width">328.33dp</dimen>
+    <dimen name="image_picker_height">209dp</dimen>
+    <dimen name="image_picker_rl_marginRight">2dp</dimen>
+    <dimen name="image_picker_tv_header_marginTop">9dp</dimen>
+
+</resources>

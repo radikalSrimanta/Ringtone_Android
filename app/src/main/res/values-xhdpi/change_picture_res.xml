@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="change_picture_layout_width">252.66dp</dimen>
+    <dimen name="change_picture_tv_header_marginBottom">10dp</dimen>
+    <dimen name="change_picture_tv_header_marginTop">10dp</dimen>
+    <dimen name="change_picture_tv_marginBottom">10dp</dimen>
+    <dimen name="change_picture_rl_mariginRight">3dp</dimen>
+
+    <style name="change_picture_header_style">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#B22315</item>
+    </style>
+
+</resources>

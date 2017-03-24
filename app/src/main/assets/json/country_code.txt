@@ -1,0 +1,922 @@
+[
+    {
+        "Country": "Afghanistan",
+        "Phone": "93"
+    },
+    {
+        "Country": "Albania",
+        "Phone": "355"
+    },
+    {
+        "Country": "Algeria",
+        "Phone": "213"
+    },
+    {
+        "Country": "American Samoa",
+        "Phone": "684"
+    },
+    {
+        "Country": "Andorra",
+        "Phone": "376"
+    },
+    {
+        "Country": "Angola",
+        "Phone": "244"
+    },
+    {
+        "Country": "Anguilla",
+        "Phone": "1-264"
+    },
+    {
+        "Country": "Antarctica",
+        "Phone": "672"
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Phone": "1-268"
+    },
+    {
+        "Country": "Argentina",
+        "Phone": "54"
+    },
+    {
+        "Country": "Armenia",
+        "Phone": "374"
+    },
+    {
+        "Country": "Aruba",
+        "Phone": "297"
+    },
+    {
+        "Country": "Australia",
+        "Phone": "61"
+    },
+    {
+        "Country": "Austria",
+        "Phone": "43"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Phone": "994"
+    },
+    {
+        "Country": "Bahamas",
+        "Phone": "1-242"
+    },
+    {
+        "Country": "Bahrain",
+        "Phone": "973"
+    },
+    {
+        "Country": "Bangladesh",
+        "Phone": "880"
+    },
+    {
+        "Country": "Barbados",
+        "Phone": "1-246"
+    },
+    {
+        "Country": "Belarus",
+        "Phone": "375"
+    },
+    {
+        "Country": "Belgium",
+        "Phone": "32"
+    },
+    {
+        "Country": "Belize",
+        "Phone": "501"
+    },
+    {
+        "Country": "Benin",
+        "Phone": "229"
+    },
+    {
+        "Country": "Bermuda",
+        "Phone": "1-441"
+    },
+    {
+        "Country": "Bhutan",
+        "Phone": "975"
+    },
+    {
+        "Country": "Bolivia",
+        "Phone": "591"
+    },
+    {
+        "Country": "Bosnia-Herzegovina",
+        "Phone": "387"
+    },
+    {
+        "Country": "Botswana",
+        "Phone": "267"
+    },
+    {
+        "Country": "Brazil",
+        "Phone": "55"
+    },
+    {
+        "Country": "Brunei Darussalam",
+        "Phone": "673"
+    },
+    {
+        "Country": "Bulgaria",
+        "Phone": "359"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Phone": "226"
+    },
+    {
+        "Country": "Burundi",
+        "Phone": "257"
+    },
+    {
+        "Country": "Cambodia",
+        "Phone": "855"
+    },
+    {
+        "Country": "Cameroon",
+        "Phone": "237"
+    },
+    {
+        "Country": "Canada",
+        "Phone": "1"
+    },
+    {
+        "Country": "Cape Verde",
+        "Phone": "238"
+    },
+    {
+        "Country": "Cayman Islands",
+        "Phone": "1-345"
+    },
+    {
+        "Country": "Central African Republic",
+        "Phone": "236"
+    },
+    {
+        "Country": "Chad",
+        "Phone": "235"
+    },
+    {
+        "Country": "Chile",
+        "Phone": "56"
+    },
+    {
+        "Country": "China",
+        "Phone": "86"
+    },
+    {
+        "Country": "Christmas Island",
+        "Phone": "61"
+    },
+    {
+        "Country": "Cocos (Keeling) Islands",
+        "Phone": "61"
+    },
+    {
+        "Country": "Colombia",
+        "Phone": "57"
+    },
+    {
+        "Country": "Comoros",
+        "Phone": "269"
+    },
+    {
+        "Country": "Congo",
+        "Phone": "242"
+    },
+    {
+        "Country": "Congo, Dem. Republic",
+        "Phone": "243"
+    },
+    {
+        "Country": "Cook Islands",
+        "Phone": "682"
+    },
+    {
+        "Country": "Costa Rica",
+        "Phone": "506"
+    },
+    {
+        "Country": "Croatia",
+        "Phone": "385"
+    },
+    {
+        "Country": "Cuba",
+        "Phone": "53"
+    },
+    {
+        "Country": "Cyprus",
+        "Phone": "357"
+    },
+    {
+        "Country": "Czech Rep.",
+        "Phone": "420"
+    },
+    {
+        "Country": "Denmark",
+        "Phone": "45"
+    },
+    {
+        "Country": "Djibouti",
+        "Phone": "253"
+    },
+    {
+        "Country": "Dominica",
+        "Phone": "1-767"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Phone": "809"
+    },
+    {
+        "Country": "Ecuador",
+        "Phone": "593"
+    },
+    {
+        "Country": "Egypt",
+        "Phone": "20"
+    },
+    {
+        "Country": "El Salvador",
+        "Phone": "503"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Phone": "240"
+    },
+    {
+        "Country": "Eritrea",
+        "Phone": "291"
+    },
+    {
+        "Country": "Estonia",
+        "Phone": "372"
+    },
+    {
+        "Country": "Ethiopia",
+        "Phone": "251"
+    },
+    {
+        "Country": "Falkland Islands (Malvinas)",
+        "Phone": "500"
+    },
+    {
+        "Country": "Faroe Islands",
+        "Phone": "298"
+    },
+    {
+        "Country": "Fiji",
+        "Phone": "679"
+    },
+    {
+        "Country": "Finland",
+        "Phone": "358"
+    },
+    {
+        "Country": "France",
+        "Phone": "33"
+    },
+    {
+        "Country": "French Guiana",
+        "Phone": "594"
+    },
+    {
+        "Country": "Gabon",
+        "Phone": "241"
+    },
+    {
+        "Country": "Gambia",
+        "Phone": "220"
+    },
+    {
+        "Country": "Georgia",
+        "Phone": "995"
+    },
+    {
+        "Country": "Germany",
+        "Phone": "49"
+    },
+    {
+        "Country": "Ghana",
+        "Phone": "233"
+    },
+    {
+        "Country": "Gibraltar",
+        "Phone": "350"
+    },
+    {
+        "Country": "Great Britain",
+        "Phone": "44"
+    },
+    {
+        "Country": "Greece",
+        "Phone": "30"
+    },
+    {
+        "Country": "Greenland",
+        "Phone": "299"
+    },
+    {
+        "Country": "Grenada",
+        "Phone": "1-473"
+    },
+    {
+        "Country": "Guadeloupe (French)",
+        "Phone": "590"
+    },
+    {
+        "Country": "Guam (USA)",
+        "Phone": "1-671"
+    },
+    {
+        "Country": "Guatemala",
+        "Phone": "502"
+    },
+    {
+        "Country": "Guinea",
+        "Phone": "224"
+    },
+    {
+        "Country": "Guinea Bissau",
+        "Phone": "245"
+    },
+    {
+        "Country": "Guyana",
+        "Phone": "592"
+    },
+    {
+        "Country": "Haiti",
+        "Phone": "509"
+    },
+    {
+        "Country": "Honduras",
+        "Phone": "504"
+    },
+    {
+        "Country": "Hong Kong",
+        "Phone": "852"
+    },
+    {
+        "Country": "Hungary",
+        "Phone": "36"
+    },
+    {
+        "Country": "Iceland",
+        "Phone": "354"
+    },
+    {
+        "Country": "India",
+        "Phone": "91"
+    },
+    {
+        "Country": "Indonesia",
+        "Phone": "62"
+    },
+    {
+        "Country": "Iran",
+        "Phone": "98"
+    },
+    {
+        "Country": "Iraq",
+        "Phone": "964"
+    },
+    {
+        "Country": "Ireland",
+        "Phone": "353"
+    },
+    {
+        "Country": "Israel",
+        "Phone": "972"
+    },
+    {
+        "Country": "Italy",
+        "Phone": "39"
+    },
+    {
+        "Country": "Ivory Coast",
+        "Phone": "225"
+    },
+    {
+        "Country": "Jamaica",
+        "Phone": "1-876"
+    },
+    {
+        "Country": "Japan",
+        "Phone": "81"
+    },
+    {
+        "Country": "Jordan",
+        "Phone": "962"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Phone": "7"
+    },
+    {
+        "Country": "Kenya",
+        "Phone": "254"
+    },
+    {
+        "Country": "Kiribati",
+        "Phone": "686"
+    },
+    {
+        "Country": "Korea-North",
+        "Phone": "850"
+    },
+    {
+        "Country": "Korea-South",
+        "Phone": "82"
+    },
+    {
+        "Country": "Kuwait",
+        "Phone": "965"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Phone": "996"
+    },
+    {
+        "Country": "Laos",
+        "Phone": "856"
+    },
+    {
+        "Country": "Latvia",
+        "Phone": "371"
+    },
+    {
+        "Country": "Lebanon",
+        "Phone": "961"
+    },
+    {
+        "Country": "Lesotho",
+        "Phone": "266"
+    },
+    {
+        "Country": "Liberia",
+        "Phone": "231"
+    },
+    {
+        "Country": "Libya",
+        "Phone": "218"
+    },
+    {
+        "Country": "Liechtenstein",
+        "Phone": "423"
+    },
+    {
+        "Country": "Lithuania",
+        "Phone": "370"
+    },
+    {
+        "Country": "Luxembourg",
+        "Phone": "352"
+    },
+    {
+        "Country": "Macau",
+        "Phone": "853"
+    },
+    {
+        "Country": "Macedonia",
+        "Phone": "389"
+    },
+    {
+        "Country": "Madagascar",
+        "Phone": "261"
+    },
+    {
+        "Country": "Malawi",
+        "Phone": "265"
+    },
+    {
+        "Country": "Malaysia",
+        "Phone": "60"
+    },
+    {
+        "Country": "Maldives",
+        "Phone": "960"
+    },
+    {
+        "Country": "Mali",
+        "Phone": "223"
+    },
+    {
+        "Country": "Malta",
+        "Phone": "356"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Phone": "692"
+    },
+    {
+        "Country": "Martinique (French)",
+        "Phone": "596"
+    },
+    {
+        "Country": "Mauritania",
+        "Phone": "222"
+    },
+    {
+        "Country": "Mauritius",
+        "Phone": "230"
+    },
+    {
+        "Country": "Mayotte",
+        "Phone": "269"
+    },
+    {
+        "Country": "Mexico",
+        "Phone": "52"
+    },
+    {
+        "Country": "Micronesia",
+        "Phone": "691"
+    },
+    {
+        "Country": "Moldova",
+        "Phone": "373"
+    },
+    {
+        "Country": "Monaco",
+        "Phone": "377"
+    },
+    {
+        "Country": "Mongolia",
+        "Phone": "976"
+    },
+    {
+        "Country": "Montenegro",
+        "Phone": "382"
+    },
+    {
+        "Country": "Montserrat",
+        "Phone": "1-664"
+    },
+    {
+        "Country": "Morocco",
+        "Phone": "212"
+    },
+    {
+        "Country": "Mozambique",
+        "Phone": "258"
+    },
+    {
+        "Country": "Myanmar",
+        "Phone": "95"
+    },
+    {
+        "Country": "Namibia",
+        "Phone": "264"
+    },
+    {
+        "Country": "Nauru",
+        "Phone": "674"
+    },
+    {
+        "Country": "Nepal",
+        "Phone": "977"
+    },
+    {
+        "Country": "Netherlands",
+        "Phone": "31"
+    },
+    {
+        "Country": "Netherlands Antilles",
+        "Phone": "599"
+    },
+    {
+        "Country": "New Caledonia (French)",
+        "Phone": "687"
+    },
+    {
+        "Country": "New Zealand",
+        "Phone": "64"
+    },
+    {
+        "Country": "Nicaragua",
+        "Phone": "505"
+    },
+    {
+        "Country": "Niger",
+        "Phone": "227"
+    },
+    {
+        "Country": "Nigeria",
+        "Phone": "234"
+    },
+    {
+        "Country": "Niue",
+        "Phone": "683"
+    },
+    {
+        "Country": "Norfolk Island",
+        "Phone": "672"
+    },
+    {
+        "Country": "Northern Mariana Islands",
+        "Phone": "670"
+    },
+    {
+        "Country": "Norway",
+        "Phone": "47"
+    },
+    {
+        "Country": "Oman",
+        "Phone": "968"
+    },
+    {
+        "Country": "Pakistan",
+        "Phone": "92"
+    },
+    {
+        "Country": "Palau",
+        "Phone": "680"
+    },
+    {
+        "Country": "Panama",
+        "Phone": "507"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Phone": "675"
+    },
+    {
+        "Country": "Paraguay",
+        "Phone": "595"
+    },
+    {
+        "Country": "Peru",
+        "Phone": "51"
+    },
+    {
+        "Country": "Philippines",
+        "Phone": "63"
+    },
+    {
+        "Country": "Poland",
+        "Phone": "48"
+    },
+    {
+        "Country": "Polynesia (French)",
+        "Phone": "689"
+    },
+    {
+        "Country": "Portugal",
+        "Phone": "351"
+    },
+    {
+        "Country": "Puerto Rico",
+        "Phone": "1-787"
+    },
+    {
+        "Country": "Qatar",
+        "Phone": "974"
+    },
+    {
+        "Country": "Reunion (French)",
+        "Phone": "262"
+    },
+    {
+        "Country": "Romania",
+        "Phone": "40"
+    },
+    {
+        "Country": "Russia",
+        "Phone": "7"
+    },
+    {
+        "Country": "Rwanda",
+        "Phone": "250"
+    },
+    {
+        "Country": "Saint Helena",
+        "Phone": "290"
+    },
+    {
+        "Country": "Saint Kitts & Nevis Anguilla",
+        "Phone": "1-869"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Phone": "1-758"
+    },
+    {
+        "Country": "Saint Pierre and Miquelon",
+        "Phone": "508"
+    },
+    {
+        "Country": "Saint Vincent & Grenadines",
+        "Phone": "1-784"
+    },
+    {
+        "Country": "Samoa",
+        "Phone": "684"
+    },
+    {
+        "Country": "San Marino",
+        "Phone": "378"
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Phone": "239"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Phone": "966"
+    },
+    {
+        "Country": "Senegal",
+        "Phone": "221"
+    },
+    {
+        "Country": "Serbia",
+        "Phone": "381"
+    },
+    {
+        "Country": "Seychelles",
+        "Phone": "248"
+    },
+    {
+        "Country": "Sierra Leone",
+        "Phone": "232"
+    },
+    {
+        "Country": "Singapore",
+        "Phone": "65"
+    },
+    {
+        "Country": "Slovakia",
+        "Phone": "421"
+    },
+    {
+        "Country": "Slovenia",
+        "Phone": "386"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Phone": "677"
+    },
+    {
+        "Country": "Somalia",
+        "Phone": "252"
+    },
+    {
+        "Country": "South Africa",
+        "Phone": "27"
+    },
+    {
+        "Country": "Spain",
+        "Phone": "34"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Phone": "94"
+    },
+    {
+        "Country": "Sudan",
+        "Phone": "249"
+    },
+    {
+        "Country": "Suriname",
+        "Phone": "597"
+    },
+    {
+        "Country": "Swaziland",
+        "Phone": "268"
+    },
+    {
+        "Country": "Sweden",
+        "Phone": "46"
+    },
+    {
+        "Country": "Switzerland",
+        "Phone": "41"
+    },
+    {
+        "Country": "Syria",
+        "Phone": "963"
+    },
+    {
+        "Country": "Taiwan",
+        "Phone": "886"
+    },
+    {
+        "Country": "Tajikistan",
+        "Phone": "992"
+    },
+    {
+        "Country": "Tanzania",
+        "Phone": "255"
+    },
+    {
+        "Country": "Thailand",
+        "Phone": "66"
+    },
+    {
+        "Country": "Togo",
+        "Phone": "228"
+    },
+    {
+        "Country": "Tokelau",
+        "Phone": "690"
+    },
+    {
+        "Country": "Tonga",
+        "Phone": "676"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Phone": "1-868"
+    },
+    {
+        "Country": "Tunisia",
+        "Phone": "216"
+    },
+    {
+        "Country": "Turkey",
+        "Phone": "90"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Phone": "993"
+    },
+    {
+        "Country": "Turks and Caicos Islands",
+        "Phone": "1-649"
+    },
+    {
+        "Country": "Tuvalu",
+        "Phone": "688"
+    },
+    {
+        "Country": "U.K.",
+        "Phone": "44"
+    },
+    {
+        "Country": "Uganda",
+        "Phone": "256"
+    },
+    {
+        "Country": "Ukraine",
+        "Phone": "380"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Phone": "971"
+    },
+    {
+        "Country": "Uruguay",
+        "Phone": "598"
+    },
+    {
+        "Country": "USA",
+        "Phone": "1"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Phone": "998"
+    },
+    {
+        "Country": "Vanuatu",
+        "Phone": "678"
+    },
+    {
+        "Country": "Vatican",
+        "Phone": "39"
+    },
+    {
+        "Country": "Venezuela",
+        "Phone": "58"
+    },
+    {
+        "Country": "Vietnam",
+        "Phone": "84"
+    },
+    {
+        "Country": "Virgin Islands (British)",
+        "Phone": "1-284"
+    },
+    {
+        "Country": "Virgin Islands (USA)",
+        "Phone": "1-340"
+    },
+    {
+        "Country": "Wallis and Futuna Islands",
+        "Phone": "681"
+    },
+    {
+        "Country": "Yemen",
+        "Phone": "967"
+    },
+    {
+        "Country": "Zambia",
+        "Phone": "260"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Phone": "263"
+    }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:descendantFocusability="blocksDescendants" >
+
+    <include
+        android:id="@+id/include_01"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height"
+        layout="@layout/header_layout" />
+
+    <RelativeLayout
+        android:id="@+id/rl_terms"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/include_02"
+        android:layout_below="@+id/include_01"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/box_white" >
+
+        <ScrollView
+            android:id="@+id/sv_about"
+            android:layout_width="@dimen/about_tv_terms_width"
+            android:layout_height="@dimen/about_tv_terms_height"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/box_term_01"
+            android:paddingBottom="@dimen/about_tv_terms_marginBottom"
+            android:paddingLeft="@dimen/about_tv_terms_marginLeft"
+            android:paddingRight="@dimen/about_tv_terms_marginRight"
+            android:paddingTop="@dimen/about_tv_terms_marginTop" >
+
+            <com.utility.view.CustomTextView
+                android:id="@+id/tv_help"
+                style="@style/about_tv_terms_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/help_content"
+                custom:fontFace="GOTHIC_0" />
+        </ScrollView>
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/include_02"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/footer_layout_height"
+        android:layout_alignParentBottom="true"
+        layout="@layout/footer_layout" />
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@android:color/transparent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:background="#E0E0E0"
+        android:minHeight="150dp" >
+
+        <Button
+            android:id="@+id/btn_cross"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/btn_cross"
+            android:onClick="onButtonClick" />
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/btn_cross"
+            android:paddingBottom="@dimen/about_tv_terms_marginBottom"
+            android:paddingLeft="@dimen/about_tv_terms_marginLeft"
+            android:paddingRight="@dimen/about_tv_terms_marginRight"
+            android:text="About"
+            android:textColor="#5A5A5A"
+            android:textSize="16sp"
+            custom:fontFace="GOTHIC_0" />
+    </RelativeLayout>
+
+</RelativeLayout>

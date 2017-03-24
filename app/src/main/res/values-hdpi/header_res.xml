@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="header_layout_height">50dp</dimen>
+    <dimen name="header_menu_height">50dp</dimen>
+    <dimen name="header_menu_width">50dp</dimen>
+    <dimen name="footer_layout_height">50dp</dimen>
+
+    <style name="header_tv_textstyle">
+        <item name="android:textSize">9pt</item>
+    </style>
+
+    <style name="header_btn_distrust_style">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- for search -->
+
+    <dimen name="header_et_height">31.67dp</dimen>
+    <dimen name="header_et_width">304.67dp</dimen>
+    <dimen name="header_saved_menu_btn_height">50dp</dimen>
+    <dimen name="header_et_margin_right">10dp</dimen>
+    <dimen name="header_share_margin_left">20dp</dimen>
+    <dimen name="header_tv_name_width">148dp</dimen>
+    <dimen name="header_btn_header_people_width">39dp</dimen>
+    <dimen name="header_btn_header_people_height">35dp</dimen>
+    <dimen name="header_btn_header_people_marginRight">3dp</dimen>
+    <dimen name="header_btn_header_people_paddingTop">8dp</dimen>
+
+    <!-- sliding menu resource -->
+    <dimen name="slide_menu_layout_width">101.33dp</dimen>
+    <dimen name="slide_menu_radio_height">93.33dp</dimen>
+    <dimen name="slide_menu_radio_paddingTop">50dp</dimen>
+    <dimen name="header_btn_distrust_height">28.66dp</dimen>
+    <dimen name="header_btn_distrust_width">72dp</dimen>
+
+    <style name="slide_menu_rb_style">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>

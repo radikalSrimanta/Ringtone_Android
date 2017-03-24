@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- image grid row -->
+    <dimen name="greetings_grid_row_margin">10dp</dimen>
+    <dimen name="greetings_grid_row_iv_GridImage_width">131.33dp</dimen>
+    <dimen name="greetings_grid_row_iv_GridImage_height">103dp</dimen>
+
+</resources>

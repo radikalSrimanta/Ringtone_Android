@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:onClick="onButtonClick" >
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height" >
+
+        <Button
+            android:id="@+id/btn_menu"
+            android:layout_width="@dimen/header_menu_width"
+            android:layout_height="@dimen/header_menu_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_slide_menu"
+            android:onClick="onMenuButtonClick"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="@dimen/header_saved_menu_btn_height"
+            android:layout_height="@dimen/header_saved_menu_btn_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/greeting_btn_arrow_selector"
+            android:gravity="center"
+            android:onClick="onBackButtonClick"
+            android:visibility="gone" />
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_header"
+            style="@style/header_tv_textstyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:singleLine="true"
+            android:text="CONNECTIONS"
+            android:textColor="#fff"
+            custom:fontFace="GOTHIC_0" >
+        </com.utility.view.CustomTextView>
+
+        <RelativeLayout
+            android:layout_width="@dimen/header_btn_header_people_width"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/header_btn_header_people_marginRight"
+            android:paddingTop="@dimen/header_btn_header_people_paddingTop" >
+
+            <Button
+                android:id="@+id/btn_header_people"
+                android:layout_width="@dimen/header_btn_header_people_width"
+                android:layout_height="@dimen/header_btn_header_people_height"
+                android:background="@drawable/contact_0001"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/include_02"
+        android:layout_below="@+id/rl_header"
+        android:background="#fff"
+        android:onClick="onButtonClick" >
+
+        <com.utility.view.CustomEditText
+            android:id="@+id/et_search"
+            style="@style/connection_et_search_style"
+            android:layout_width="@dimen/connection_et_search_width"
+            android:layout_height="@dimen/connection_et_search_height"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/connection_et_search_marginTop"
+            android:background="@drawable/search_bar"
+            android:hint="Search"
+            android:paddingLeft="@dimen/connection_et_search_paddingLeft"
+            android:paddingRight="@dimen/connection_et_search_paddingRight"
+            custom:fontFace="GOTHIC_0" />
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/list_contact"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/et_search"
+            android:layout_marginTop="@dimen/connection_list_contact_marginTop"
+            android:cacheColorHint="#00000000"
+            android:divider="#19000000"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:listSelector="@android:color/transparent"
+            android:smoothScrollbar="true" />
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/include_02"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/footer_layout_height"
+        android:layout_alignParentBottom="true"
+        layout="@layout/footer_layout" />
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="record_audio_btn_width">108.66dp</dimen>
+    <dimen name="record_audio_btn_height">49.33dp</dimen>
+    <dimen name="record_audio_linear1_width">330dp</dimen>
+    <dimen name="record_audio_linear1_marginTop">17dp</dimen>
+    <dimen name="record_audio_btn_marginRight">5dp</dimen>
+    <dimen name="record_audio_iv_record_width">235.33dp</dimen>
+    <dimen name="record_audio_iv_record_marginTop">25dp</dimen>
+    <dimen name="record_audio_drawer_marginTop">20dp</dimen>
+    <dimen name="record_audio_drawer_marginLeft">15dp</dimen>
+    <dimen name="record_audio_drawer_visualizer_height">150dp</dimen>
+
+    <style name="recoder_btn_accept_style">
+        <item name="android:textSize">9pt</item>
+        <item name="android:textColor"> @drawable/record_start_color_selector</item>
+    </style>
+
+    <style name="recoder_btn_deny_style">
+        <item name="android:textSize">9pt</item>
+        <item name="android:textColor"> @drawable/record_stop_color_selector</item>
+    </style>
+
+</resources>

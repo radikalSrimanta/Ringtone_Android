@@ -1,0 +1,231 @@
+-injars 'E:\srimanta workspace\new_ringtoneapplication\RingtoneApplication\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'E:\srimanta workspace\new_ringtoneapplication\RingtoneApplication\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'E:\AndroidDevelopment\androidsdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'E:\srimanta workspace\new_ringtoneapplication\RingtoneApplication\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.i_just_call_to_say.activities.base.RingToneBaseApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.i_just_call_to_say.activities.splash.SplashActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.base.PushDialogActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.connections.ConnectionsActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.loginregistrartion.RegistrationActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.loginregistrartion.TermAndCondition {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.loginregistrartion.BrowserActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.UpdateUserDetailsActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.contacts.ContactsActivity {
+    <init>();
+}
+
+-keep class com.imagecaptured.CameraActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.GreetingsActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.GetGreetinsOnCategory {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.GetSendGreetingsLargeActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.help.HelpActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.SendContactActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.about.AboutRingToneActivity {
+    <init>();
+}
+
+-keep class com.imagepicker.DialogChoosePicture {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.AudioPopupDIalog {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.ViewReceiveGreetingActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.ImageSelectionProfilePopupDialog {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.UpdateProfileImagePopupDialog {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.CaptureAudioScreen {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.contacts.RingtoneDownloadService {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.contacts.DownloadService {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.greetings.CheckUpdateService {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.contacts.InitializeBackGroundService {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.base.CheckBackgroundSericeReceiver {
+    <init>();
+}
+
+-keep class com.i_just_call_to_say.activities.base.BootReceiver {
+    <init>();
+}
+
+-keep class com.isis.module.push_notification.GCMIntentService {
+    <init>();
+}
+
+-keep class com.google.android.gcm.GCMBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.firebasepush.FCMInitializationService {
+    <init>();
+}
+
+-keep class com.firebasepush.FCMCallbackService {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.ReconnectionService {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity {
+    <init>();
+}
+
+-keep class com.isis.module.push_notification.GCMSplashActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

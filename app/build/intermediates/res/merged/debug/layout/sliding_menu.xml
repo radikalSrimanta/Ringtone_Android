@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rg_menu"
+    android:layout_width="@dimen/slide_menu_layout_width"
+    android:layout_height="match_parent"
+    android:background="@drawable/slider_bg"
+    android:orientation="vertical" >
+
+    <com.utility.view.CustomRadioButton
+        android:id="@+id/btn_connections"
+        style="@style/slide_menu_rb_style"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/slide_menu_radio_height"
+        android:background="@drawable/slide_menu_btn_connection_selector"
+        android:button="@null"
+        android:gravity="center"
+        android:onClick="onConnectionButtonClick"
+        android:paddingTop="@dimen/slide_menu_radio_paddingTop"
+        android:text="Connections"
+        android:textColor="@drawable/slide_menu_text_color_selector"
+        custom:fontFace="GOTHIC_0" />
+
+    <com.utility.view.CustomRadioButton
+        android:id="@+id/btn_greetings"
+        style="@style/slide_menu_rb_style"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/slide_menu_radio_height"
+        android:background="@drawable/slide_menu_btn_greetings_selector"
+        android:button="@null"
+        android:gravity="center_vertical|center"
+        android:onClick="onGreetingsButtonClick"
+        android:paddingTop="@dimen/slide_menu_radio_paddingTop"
+        android:text="Greetings"
+        android:textColor="@drawable/slide_menu_text_color_selector"
+        custom:fontFace="GOTHIC_0" />
+
+    <com.utility.view.CustomRadioButton
+        android:id="@+id/btn_about"
+        style="@style/slide_menu_rb_style"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/slide_menu_radio_height"
+        android:background="@drawable/slide_menu_btn_about_selector"
+        android:button="@null"
+        android:gravity="center_vertical|center"
+        android:onClick="onAboutButtonClick"
+        android:paddingTop="@dimen/slide_menu_radio_paddingTop"
+        android:text="About"
+        android:textColor="@drawable/slide_menu_text_color_selector"
+        custom:fontFace="GOTHIC_0" />
+
+    <com.utility.view.CustomRadioButton
+        android:id="@+id/btn_help"
+        style="@style/slide_menu_rb_style"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/slide_menu_radio_height"
+        android:background="@drawable/slide_menu_btn_help_selector"
+        android:button="@null"
+        android:gravity="center_vertical|center"
+        android:onClick="onHelpButtonClick"
+        android:paddingTop="@dimen/slide_menu_radio_paddingTop"
+        android:text="Help"
+        android:textColor="@drawable/slide_menu_text_color_selector"
+        custom:fontFace="GOTHIC_0" />
+
+</RadioGroup>

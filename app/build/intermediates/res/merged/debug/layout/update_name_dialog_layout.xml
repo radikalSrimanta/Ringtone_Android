@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_dialogue"
+    android:layout_width="@dimen/update_name_dialogue_rl_dialogue_width"
+    android:layout_height="@dimen/update_name_dialogue_rl_dialogue_height"
+    android:layout_centerInParent="true"
+    android:background="#fff" >
+
+    <com.utility.view.CustomTextView
+        android:id="@+id/tv_name"
+        style="@style/update_name_dialogue_tv_name_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/update_name_dialogue_tv_name_marginTop"
+        android:text="CHANGE NAME"
+        custom:fontFace="GOTHIC_0" />
+
+    <RelativeLayout
+        android:layout_width="@dimen/update_name_dialogue_et_name_width"
+        android:layout_height="@dimen/update_name_dialogue_rl_border_height"
+        android:layout_below="@+id/tv_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/update_name_dialogue_et_name_marginTop"
+        android:background="@drawable/border_line"
+        android:paddingTop="@dimen/update_name_dialogue_rl_border_paddingTop" >
+
+        <com.utility.view.CustomEditText
+            android:id="@+id/et_name"
+            style="@style/update_name_dialogue_et_name_style"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/update_name_dialogue_et_name_height"
+            android:background="#DADADA"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:singleLine="true"
+            custom:fontFace="GOTHIC_0" >
+
+            <requestFocus />
+        </com.utility.view.CustomEditText>
+
+        <com.utility.view.CustomButton
+            android:id="@+id/btn_accept"
+            style="@style/update_name_dialogue_btn_accept_style"
+            android:layout_width="@dimen/update_name_dialogue_btn_accept_width"
+            android:layout_height="@dimen/update_name_dialogue_btn_height"
+            android:layout_below="@+id/et_name"
+            android:layout_marginTop="@dimen/update_name_dialogue_btn_accept_marginTop"
+            android:background="@drawable/terms_accept_btn_selector"
+            android:onClick="onButtonClick"
+            android:text="OK"
+            custom:fontFace="GOTHIC_0" />
+
+        <com.utility.view.CustomButton
+            android:id="@+id/btn_cancel"
+            style="@style/update_name_dialogue_btn_accept_style"
+            android:layout_width="@dimen/update_name_dialogue_btn_cancel_width"
+            android:layout_height="@dimen/update_name_dialogue_btn_height"
+            android:layout_below="@+id/et_name"
+            android:layout_marginTop="@dimen/update_name_dialogue_btn_cancel_marginTop"
+            android:layout_toRightOf="@+id/btn_accept"
+            android:background="@drawable/terms_cancel_btn_selector"
+            android:onClick="onButtonClick"
+            android:text="Cancel"
+            custom:fontFace="GOTHIC_0" />
+    </RelativeLayout>
+
+</RelativeLayout>

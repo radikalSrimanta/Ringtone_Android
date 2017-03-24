@@ -1,0 +1,91 @@
+#
+# generated on 2014/11/24 05:29:11
+#
+# --table-start--
+dataClass=com.i_just_call_to_say.dto.Contacts
+tableName=Contacts
+# --table-fields-start--
+# --field-start--
+fieldName=contact_number
+columnName=ContactNumber
+id=true
+# --field-end--
+# --field-start--
+fieldName=contact_id
+columnName=ContactsID
+# --field-end--
+# --field-start--
+fieldName=contact_name
+columnName=ContactName
+# --field-end--
+# --field-start--
+fieldName=contact_image
+columnName=ContactImage
+# --field-end--
+# --field-start--
+fieldName=contact_ringtone
+columnName=ContactRingtone
+# --field-end--
+# --field-start--
+fieldName=connection_status
+columnName=ContactStatus
+# --field-end--
+# --field-start--
+fieldName=connection_id
+columnName=ConnectionsId
+# --field-end--
+# --field-start--
+fieldName=my_name
+columnName=my_display_name
+# --field-end--
+# --field-start--
+fieldName=my_ringtone
+columnName=my_ringtone_file
+# --field-end--
+# --field-start--
+fieldName=my_image_thumb
+columnName=my_image_path_thumb
+# --field-end--
+# --field-start--
+fieldName=my_image_normal
+columnName=my_image_path_normal
+# --field-end--
+# --field-start--
+fieldName=purchase_status
+columnName=purchase_status
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=com.i_just_call_to_say.dto.User
+tableName=User
+# --table-fields-start--
+# --field-start--
+fieldName=user_id
+columnName=user_ID
+id=true
+# --field-end--
+# --field-start--
+fieldName=access_token
+columnName=Access_Token
+# --field-end--
+# --field-start--
+fieldName=user_name
+columnName=User_Name
+# --field-end--
+# --field-start--
+fieldName=country_code
+columnName=country_code
+# --field-end--
+# --field-start--
+fieldName=phone_number
+columnName=Phone_Number
+# --field-end--
+# --field-start--
+fieldName=purchase_status
+columnName=Purchase_Status
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

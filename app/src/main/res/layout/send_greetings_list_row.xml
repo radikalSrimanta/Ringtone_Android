@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/send_greetings_rl_parent_height"
+    android:background="#E0E0E0" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/send_greetings_row_selector" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/send_greetings_tv_receiver_name_marginLeft"
+            android:layout_marginTop="@dimen/send_greetings_tv_receiver_name_marginTop"
+            android:text="AAA"
+            android:textColor="#4F4F50"
+            android:textSize="20sp"
+            custom:fontFace="GOTHIC_0" />
+    </RelativeLayout>
+
+</RelativeLayout>

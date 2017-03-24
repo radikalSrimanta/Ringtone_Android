@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="audio_picker_btn_height">120dp</dimen>
+    <dimen name="audio_picker_btn_width">87.33dp</dimen>
+    <dimen name="audio_picker_tv_marginTop">6dp</dimen>
+    <dimen name="audio_picker_layout_width">225dp</dimen>
+    <dimen name="audio_picker_tv_marginBottom">9dp</dimen>
+    <dimen name="audio_picker_rl_mariginRight">2dp</dimen>
+    <dimen name="audio_picker_tv_header_marginBottom">11dp</dimen>
+
+    <style name="audio_picker_tv_header">
+        <item name="android:textColor">#B22315</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="dialog_tv_style">
+        <item name="android:textColor">@drawable/update_popup_text_color_selector</item>
+        <item name="android:textSize">11.5sp</item>
+    </style>
+    
+    <style name="dialog_tv_style1">
+        <item name="android:textColor">@drawable/update_info_image_pick_color_selector</item>
+        <item name="android:textSize">11.5sp</item>
+    </style>
+
+</resources>

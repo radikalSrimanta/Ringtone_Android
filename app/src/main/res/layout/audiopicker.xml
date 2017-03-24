@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/audio_picker_layout_width"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/update_popup_bg_02" >
+
+    <com.utility.view.CustomTextView
+        android:id="@+id/tv_header"
+        style="@style/audio_picker_tv_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/audio_picker_tv_header_marginBottom"
+        android:layout_marginTop="@dimen/audio_picker_tv_marginTop"
+        android:text="SEND RINGTONE"
+        custom:fontFace="GOTHIC_0" />
+
+    <LinearLayout
+        android:id="@+id/ll_01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_header"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rel_audio"
+            android:layout_width="@dimen/audio_picker_btn_width"
+            android:layout_height="@dimen/audio_picker_btn_height"
+            android:layout_marginRight="@dimen/audio_picker_rl_mariginRight"
+            android:onClick="onAudioClick" >
+
+            <com.utility.view.CustomTextView
+                android:id="@+id/tv_audio"
+                style="@style/dialog_tv_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/audio_picker_tv_marginBottom"
+                android:text="Audio"
+                custom:fontFace="GOTHIC_0" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rel_record"
+            android:layout_width="@dimen/audio_picker_btn_width"
+            android:layout_height="@dimen/audio_picker_btn_height"
+            android:onClick="onRecordClick" >
+
+            <com.utility.view.CustomTextView
+                android:id="@+id/tv_record"
+                style="@style/dialog_tv_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/audio_picker_tv_marginBottom"
+                android:text="Record Audio"
+                custom:fontFace="GOTHIC_0" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

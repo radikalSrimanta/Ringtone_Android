@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.2.0_438f4ad8914f9472972ee6dbe16afee137b61475.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.0_7076b54072e444b4af261fa53557d5ac13b2158c.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.2.0_3e88c0279ce893b71718f2bbee6716ddb1f857df.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.2.0_d9f911b8ced603a3cc4ec8bda44a5ef081306e88.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ead093c96b69b914cb4445c3705764cec2f060b1.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.2.0_7e1df0753e8d66c06b9d989dc89dc27fd4026996.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_23b7a490a1227f3087f76b53de7fa9d28012689a.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.0_414508579addae2f7d9703b5479b0d6e724ccbe3.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.2.0_45f16d8ca45e811cbfbd366e6f78fabcbd6ade10.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.0_00634d8e9a1008be9b275e4c0a0606683c1c6aa3.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.0_cf4faf7f499b3191cd0f3b48cf0dcf7a922025e7.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.2.0_62ab480c073a8de3a3108ad79cb37f3cd7c44045.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_3057f2bad7fdc05c85733ecdff1fadcc94daa135.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.0_3730a60dd9d74fa561c1bef353a7a842d951447f.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.2.0_21c244035f320d35d12a9c1ccbe98f1653570d28.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-contextmanager-9.2.0_c614abb265f00094bb849ad8d08247640c1b55c4.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.0_656cba11e5c0075cf00a3287f8d3cc7dfb843c45.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\libs\jxl.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\jxl_a97f8ff646d38ab7e6a06d0299bb6e05e7987626.jar" />
+    </item>
+    <item
+        jar="E:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_4b4a0cb1d992412c1a3a8fdd39844d64665f9cc1.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.0_6fe24d0162b729e61c513cc5fadc913a887fc820.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_79eec02240602812e3422e6ade865e8513a649bb.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.2.0_6fb868c3e612b2c04062ec26e428f28245c71fbc.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.0_3bb1211972236b1ec0390647265c8b46c7f43543.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.2.0_4abec1551f31072e3232e95d7a006e77166e6b49.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.0_39bd6dbfb7ef2327e95e960c585cfd4dcc78a7f9.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.2.0_48b07a8cff484bc537201a219b7352b78bef782d.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.0_8dd2c26f87653234885dbad674f08c332874e72c.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.0_0e80ef757dae17d46d9891ad7479ff92b5640e3d.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.2.0_2d3e1b4dc0f38ada2f4c98084c7f9b904e73e6a5.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.2.0_749fcb40fd8d168127f846813a05599dbebd0867.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\libs\ormlite-android-4.43.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8fcbe57e9d2f9bc1a7170fe0805161185df36a4a">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\ormlite-android-4.43_74fb163489d77d8c754f5270f6689b1dc3703c7e.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.0_26e67f1b50473354036929780ce8971b5841d4b7.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.0_47986e496bc34df78bebeefe626583ea2635b129.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_3806c9d053bbe9b14ea763fa31a35616e011f6cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\rohit\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\gson-2.6.2_9e4447f9e1f5d49b3e07d6bfc4f70ad94dcb1f74.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_066c94b788e2cd70f0fbdd81807cb641269416c7.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.2.0_c0cbbc76aa39979a3b6080e475db79bc1e24469c.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.2.0_412c738b22ca5f822d493892f636cc50bd4fbe2b.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\RingtoneApplication\pullDownToRefreshLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a6132e3eda14f255257cf45d4fb6085c1b021192">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\RingtoneApplication-pullDownToRefreshLibrary-unspecified_a7a550d3594e099e12663f0dbd6a744ce97fbac9.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.2.0_48f7d278593874ef01a755e4d70212e2518a4ce4.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\libs\ormlite-core-4.43.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b6a73dff02ae2530bb879f5e2bb754da8915696c">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\ormlite-core-4.43_09ae8397b423e4fb33082d1a6e1ea2467e32e255.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.2.0_210019a7c76cdc0ebe73e6924434fac6f9354fe6.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.0_002536b24db7fa81f5c643ffb407dbd6a4980a4f.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.2.0_33faf7185b2580ad7614dc93acc849cbd8c5edbe.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.0_66414bc3924cf354583e8cf5ea2ac46e38255d5f.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.2.0_a4363dbf66e4f0c0c549185e4bfe76e577fa9801.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.0_960f9bbaf09c25e988acb1ba4292902a6dc4fd20.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.0_33063cf203c3011eb0cdde197ec1eea7d3b0f024.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.0_1a4611488c1321fe78b85e1cf781f01741e58e21.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\RingtoneApplication\pushNotificationModule\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="be45ebe8b72487964247270c4c6af5bc742090e7">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\RingtoneApplication-pushNotificationModule-unspecified_e0994a5e16f6c89cb7f15f92ac00dde1a2649235.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.0_84f37fdb93ace1095264ad84a0237f922ddc6b0c.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.2.0_7a3c11d00a0b642e2281f39fcc4326a7b46781b4.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.0_c61bb352596e3700f3981ebe1d7a08ce23e39ca1.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.2.0_fd7facfa3dfbac3bd9f1741eb0f470468c2e9755.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.2.0_c98d47b914cca862fc84ec0dc0355320dece2c3a.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\libs\httpmime-4.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9ba2dcdf94ce35c8a8e9bff242db0618ca932e92">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\httpmime-4.1_9b50e95c0da6ab0f65ab25ff4da2ce5c07b666bb.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.0_1d68b4ffa6715fe1f37ec121e1c44459a10157dd.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.2.0_c7296481b3a86dfddd9bf6ea97b392c4763876bf.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.2.0_1aa814d9a469e4f122088730cd27f879a2b75101.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.2.0_fc53dc329e5a06936a08e572899296ac12c8fd89.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.0_9f9004cafb5da227af1366c25f30256462e101ff.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_4387000c1b395e9b50bc5d38ab060078e821508a.jar" />
+    </item>
+    <item
+        jar="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="D:\proj backup\23.11.16\RingtoneApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.2.0_86cf729a1aa8c1d434782aedcdf8463119fe74e9.jar" />
+    </item>
+
+</items>

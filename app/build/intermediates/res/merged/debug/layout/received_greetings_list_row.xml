@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/received_greetings_rl_parent_height"
+    android:background="@drawable/panel_greetings" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E0E0E0" >
+
+        <ImageView
+            android:id="@+id/img_received"
+            android:layout_width="@dimen/received_greetings_img_received_width"
+            android:layout_height="@dimen/received_greetings_img_received_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/received_greetings_img_received_marginLeft"
+            android:background="@drawable/greetingscard_holder_01"
+            android:scaleType="fitXY" />
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_sender_name"
+            style="@style/greeting_tv_sender_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/received_greetings_img_received_marginLeft"
+            android:layout_marginTop="@dimen/received_greetings_tv_sender_name_marginTop"
+            android:layout_toRightOf="@+id/img_received"
+            android:text="Unknown"
+            custom:fontFace="GOTHIC_0" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/received_greetings_tv_sender_time_marginBottom"
+            android:layout_marginLeft="2dp"
+            android:layout_toLeftOf="@+id/tv_sender_time"
+            android:background="@drawable/icon_clock_red" />
+
+        <TextView
+            android:id="@+id/tv_sender_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="@dimen/received_greetings_tv_sender_time_marginBottom"
+            android:layout_marginRight="@dimen/received_greetings_tv_sender_time_marginRight"
+            android:text="Yesterday"
+            android:textColor="#4F4F50" />
+    </RelativeLayout>
+
+</RelativeLayout>

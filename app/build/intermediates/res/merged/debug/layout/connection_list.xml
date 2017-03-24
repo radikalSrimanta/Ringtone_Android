@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:onClick="onButtonClick" >
+
+    <include
+        android:id="@+id/include_01"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height"
+        layout="@layout/header_layout" />
+
+    <RelativeLayout
+        android:id="@+id/rl_01"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/include_02"
+        android:layout_below="@+id/include_01"
+        android:background="#fff" >
+
+        <com.utility.view.CustomEditText
+            android:id="@+id/et_search"
+            style="@style/contact_list_row_tv_name_style"
+            android:layout_width="@dimen/connection_et_search_width"
+            android:layout_height="@dimen/connection_et_search_height"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/connection_et_search_marginTop"
+            android:background="@drawable/search_bar"
+            android:hint="Search"
+            android:paddingLeft="@dimen/connection_et_search_paddingLeft"
+            android:paddingRight="@dimen/connection_et_search_paddingRight"
+            custom:fontFace="GOTHIC_0" />
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/list_contact"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/et_search"
+            android:layout_marginTop="@dimen/connection_list_contact_marginTop"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@android:color/transparent"
+            android:listSelector="@android:color/transparent"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/include_02"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/footer_layout_height"
+        android:layout_alignParentBottom="true"
+        layout="@layout/footer_layout" />
+
+</RelativeLayout>

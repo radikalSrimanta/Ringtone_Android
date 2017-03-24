@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="connection_et_search_height">32dp</dimen>
+    <dimen name="connection_et_search_width">290dp</dimen>
+    <dimen name="connection_et_search_marginTop">10dp</dimen>
+    <dimen name="connection_et_search_paddingLeft">35dp</dimen>
+    <dimen name="connection_et_search_paddingRight">5dp</dimen>
+    <dimen name="connection_list_contact_marginTop">5dp</dimen>
+    <dimen name="connection_et_search_marginLeft">14dp</dimen>
+    <dimen name="connection_et_search_marginRight">14dp</dimen>
+
+    <style name="connection_et_search_style">
+        <item name="android:textColor">#F8F8F8</item>
+        <item name="android:textColorHint">#F8F8F8</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>

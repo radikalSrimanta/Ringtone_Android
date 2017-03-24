@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_header"
+            style="@style/header_tv_textstyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:singleLine="true"
+            android:text="I Just Call To Say"
+            android:textColor="#fff"
+            custom:fontFace="GOTHIC_0" >
+        </com.utility.view.CustomTextView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_terms"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl_header"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/box_white" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_termsCndtns"
+            style="@style/tv_termsCndtns_style"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/terms_conditions_tv_termsCndtns_height"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/terms_conditions_tv_termsCndtns_marginTop"
+            android:gravity="center"
+            android:text="@string/terms"
+            custom:fontFace="GOTHIC_0" />
+
+        <ScrollView
+            android:id="@+id/sv_1"
+            android:layout_width="@dimen/terms_conditions_sv_1_width"
+            android:layout_height="@dimen/terms_conditions_sv_1_height"
+            android:layout_below="@+id/tv_termsCndtns"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/box_term_01"
+            android:paddingBottom="@dimen/terms_conditions_ll_btn_width_paddingBottom"
+            android:paddingLeft="@dimen/terms_conditions_ll_btn_width_paddingLeft"
+            android:paddingRight="@dimen/terms_conditions_ll_btn_width_paddingRight"
+            android:paddingTop="@dimen/terms_conditions_ll_btn_width_paddingTop" >
+
+            <com.utility.view.CustomTextView
+                android:id="@+id/tv_terms"
+                style="@style/tv_terms_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/terms_and_condition"
+                custom:fontFace="GOTHIC_0" />
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/ll_btn"
+            android:layout_width="@dimen/terms_conditions_ll_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sv_1"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/warning_layout_ll_btn_container_paddingLeft" >
+
+            <com.utility.view.CustomButton
+                android:id="@+id/btn_accept"
+                style="@style/registration_screen_styles"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/terms_accept_btn_selector"
+                android:onClick="onRegisterClick"
+                android:paddingBottom="5dp"
+                android:text="Accept"
+                custom:fontFace="GOTHIC_0" />
+
+            <com.utility.view.CustomButton
+                android:id="@+id/btn_cancel"
+                style="@style/registration_screen_styles"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/terms_cancel_btn_selector"
+                android:onClick="onCancelClick"
+                android:paddingBottom="5dp"
+                android:text="Cancel"
+                custom:fontFace="GOTHIC_0" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/include_02"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/footer_layout_height"
+        android:layout_alignParentBottom="true"
+        layout="@layout/footer_layout" />
+
+</RelativeLayout>

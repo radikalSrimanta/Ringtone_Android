@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:gravity="center" >
+
+    <RelativeLayout
+        android:id="@+id/rl_wraingDialogue"
+        android:layout_width="@dimen/warning_Layout_rl_wraingDialogue_width"
+        android:layout_height="@dimen/warning_Layout_rl_wraingDialogue_width"
+        android:layout_centerHorizontal="true"
+        android:background="#fff" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_name"
+            style="@style/warning_Layout_tv_name_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/warning_Layout_tv_name_marginTop"
+            android:text="Warning!"
+            custom:fontFace="GOTHIC_0" />
+
+        <ScrollView
+            android:id="@+id/sv_01"
+            android:layout_width="@dimen/warning_Layout_et_name_width"
+            android:layout_height="@dimen/warning_Layout_et_name_height"
+            android:layout_below="@+id/tv_name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/warning_Layout_et_name_marginTop"
+            android:background="@drawable/box_warning"
+            android:padding="@dimen/warning_Layout_et_name_padding" >
+
+            <com.utility.view.CustomTextView
+                android:id="@+id/et_message"
+                style="@style/warning_Layout_et_name_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="top|left"
+                android:text="@string/warning_message"
+                custom:fontFace="GOTHIC_0" />
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/ll_cb_container"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/warning_layout_cb_showWaring_height"
+            android:layout_below="@+id/sv_01"
+            android:layout_marginLeft="@dimen/warning_layout_cb_showWaring_marginLeft"
+            android:layout_marginTop="@dimen/warning_Layout_cb_showWaring_marginTop"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/cb_showWaring"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/warning_cb_show_selector"
+                android:button="@null"
+                android:checked="false" />
+
+            <com.utility.view.CustomTextView
+                style="@style/warning_Layout_cb_showWaring_style"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/warning_layout_tv_showWaring_marginLeft"
+                android:gravity="center_vertical"
+                android:text="Do not show again in future"
+                custom:fontFace="GOTHIC_0" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="@dimen/warning_layout_ll_btn_container_width"
+            android:layout_height="@dimen/warning_layout_ll_btn_container_height"
+            android:layout_below="@+id/ll_cb_container"
+            android:layout_marginLeft="@dimen/warning_Layout_btn_marginLeft"
+            android:layout_marginTop="@dimen/warning_Layout_cb_showWaring_marginTop"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/warning_layout_ll_btn_container_paddingLeft" >
+
+            <com.utility.view.CustomButton
+                android:id="@+id/btn_accept"
+                style="@style/warning_layout_btn_style"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/terms_accept_btn_selector"
+                android:paddingBottom="@dimen/warning_Layout_btn_paddingBottom"
+                android:text="Accept"
+                custom:fontFace="GOTHIC_0" />
+
+            <com.utility.view.CustomButton
+                android:id="@+id/btn_cancel"
+                style="@style/warning_layout_btn_style"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/terms_cancel_btn_selector"
+                android:paddingBottom="@dimen/warning_Layout_btn_paddingBottom"
+                android:text="Cancel"
+                custom:fontFace="GOTHIC_0" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

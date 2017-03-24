@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <include
+        android:id="@+id/include_01"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height"
+        layout="@layout/header_layout" />
+
+    <ImageView
+        android:id="@+id/tv_inst"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/include_01"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/update_profile_image_iv_logo_marginTop"
+        android:background="@drawable/i_just_called2_say"
+        android:text="I just want to say" />
+
+    <FrameLayout
+        android:id="@+id/fl_profileImage"
+        android:layout_width="@dimen/update_profile_imng_profile_picture_width"
+        android:layout_height="@dimen/update_profile_imng_profile_picture_height"
+        android:layout_below="@+id/tv_inst"
+        android:layout_centerHorizontal="true"
+        android:onClick="onButtonClick" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/update_img_holder_shadow" />
+
+        <com.utility.view.ImageViewRounded
+            android:id="@+id/imng_profile_picture"
+            android:layout_width="@dimen/update_profile_imng_profile_picture_circle_width"
+            android:layout_height="@dimen/update_profile_imng_profile_picture_circle_height"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginRight="@dimen/update_profile_imng_profile_picture_circle_marginRight"
+            android:layout_marginTop="@dimen/update_profile_imng_profile_picture_circle_marginTop" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fl_profileImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="4dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_ringtone"
+            style="@style/update_profile_name_change_style"
+            android:layout_width="@dimen/update_profile_tv_ringtone_width"
+            android:layout_height="@dimen/update_profile_tv_ringtone_height"
+            android:background="@drawable/change_ringtone"
+            android:clickable="true"
+            android:onClick="onButtonClick"
+            custom:fontFace="GOTHIC_0" />
+
+        <ImageView
+            android:id="@+id/iv_play"
+            android:layout_width="@dimen/update_profile_iv_play_width"
+            android:layout_height="@dimen/update_profile_iv_play_height"
+            android:layout_marginLeft="@dimen/update_profile_iv_play_button_marginLeft"
+            android:clickable="true"
+            android:onClick="onButtonClick" />
+
+        <ImageView
+            android:id="@+id/iv_rid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/update_profile_btn_rid_marginLeft"
+            android:background="@drawable/icon_rid"
+            android:clickable="true"
+            android:onClick="onButtonClick" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_updateName"
+        android:layout_width="@dimen/update_profile_image_ll_name_width"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_03"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/update_profile_ll_name_marginTop"
+        android:clickable="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:onClick="onButtonClick" >
+
+        <com.utility.view.CustomTextView
+            style="@style/update_profile_name_change_style"
+            android:layout_width="@dimen/update_profile_tv_name_width"
+            android:layout_height="@dimen/update_profile_tv_ringtone_height"
+            android:background="@drawable/change_my_name"
+            custom:fontFace="GOTHIC_0" />
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_name"
+            style="@style/update_profile_name_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="HEENA"
+            custom:fontFace="GOTHIC_0" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_updateName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/update_profile_ll_marginTop"
+        android:gravity="center_vertical|center_horizontal" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_profile_pic"
+            style="@style/update_profile_name_change_style"
+            android:layout_width="@dimen/update_profile_tv_profile_pic_width"
+            android:layout_height="@dimen/update_profile_tv_ringtone_height"
+            android:background="@drawable/change_my_profile_photo"
+            android:clickable="true"
+            android:onClick="onButtonClick"
+            custom:fontFace="GOTHIC_0" />
+
+        <ImageView
+            android:id="@+id/iv_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/update_profile_iv_play_button_marginLeft"
+            android:background="@drawable/icon_user_sm"
+            android:clickable="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_06"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_05"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/update_profile_ll_marginTop"
+        android:gravity="center_vertical|center_horizontal" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_sendGreeting"
+            style="@style/update_profile_name_change_style"
+            android:layout_width="@dimen/update_profile_tv_send_greeting_width"
+            android:layout_height="@dimen/update_profile_tv_ringtone_height"
+            android:background="@drawable/send_greetings_card"
+            android:clickable="true"
+            android:onClick="onButtonClick"
+            custom:fontFace="GOTHIC_0" />
+
+        <ImageView
+            android:id="@+id/iv_greetings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/update_profile_iv_play_button_marginLeft"
+            android:background="@drawable/icon_greeting_sm"
+            android:clickable="true" />
+    </LinearLayout>
+
+    <com.utility.view.CustomButton
+        android:id="@+id/btn_update"
+        style="@style/header_btn_distrust_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_06"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/update_profile_btn_update_marginTop"
+        android:background="@drawable/update_info_btn_distrust_selector"
+        android:onClick="onButtonClick"
+        android:text="UPDATE"
+        custom:fontFace="GOTHICB_0" />
+
+    <LinearLayout
+        android:id="@+id/ll_07"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_update"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/update_profile_ll_marginTop"
+        android:gravity="center_vertical" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_upgrade_friend"
+            style="@style/update_profile_tv_upgrade_friend_style"
+            android:layout_width="@dimen/update_profile_tv_upgrade_friend_width"
+            android:layout_height="@dimen/update_profile_tv_upgrade_friend_height"
+            android:layout_marginTop="@dimen/update_profile_tv_upgrade_friend_marginTop"
+            android:background="@drawable/update_user_btn_upgrade_frnd_selector"
+            android:clickable="true"
+            android:gravity="center_vertical|center_horizontal"
+            android:onClick="onButtonClick"
+            android:paddingLeft="@dimen/update_profile_tv_upgrade_friend_paddingLeft"
+            android:paddingRight="@dimen/update_profile_tv_upgrade_friend_paddingRight"
+            android:text="DO YOU WANT TO UNLOCK\nPAID VERSION FOR THIS FRIEND ?"
+            android:visibility="visible"
+            custom:fontFace="GOTHIC_0" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/include_02"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/footer_layout_height"
+        android:layout_alignParentBottom="true"
+        layout="@layout/footer_layout" />
+
+</RelativeLayout>

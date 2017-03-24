@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_layout_height" >
+
+        <com.utility.view.CustomTextView
+            android:id="@+id/tv_header"
+            style="@style/header_tv_textstyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="SELECT COUNTRY CODE"
+            android:textColor="#fff"
+            custom:fontFace="GOTHIC_0" >
+        </com.utility.view.CustomTextView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl_header"
+        android:background="#fff" >
+
+        <com.utility.view.CustomEditText
+            android:id="@+id/et_serachfield"
+            style="@style/connection_et_search_style"
+            android:layout_width="@dimen/connection_et_search_width"
+            android:layout_height="@dimen/connection_et_search_height"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/connection_et_search_marginTop"
+            android:background="@drawable/search_bar"
+            android:hint="Search"
+            android:paddingLeft="@dimen/connection_et_search_paddingLeft"
+            android:paddingRight="@dimen/connection_et_search_paddingRight"
+            android:layout_marginLeft="@dimen/connection_et_search_marginLeft"
+            android:layout_marginRight="@dimen/connection_et_search_marginRight"
+            custom:fontFace="GOTHIC_0" />
+
+        <ListView
+            android:id="@+id/lv_country"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/et_serachfield" >
+        </ListView>
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/pb_01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout>

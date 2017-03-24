@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/header_layout_height" >
+
+    <Button
+        android:id="@+id/btn_menu"
+        android:layout_width="@dimen/header_menu_width"
+        android:layout_height="@dimen/header_menu_height"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_slide_menu"
+        android:onClick="onMenuButtonClick"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="@dimen/header_saved_menu_btn_height"
+        android:layout_height="@dimen/header_saved_menu_btn_height"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/greeting_btn_arrow_selector"
+        android:gravity="center"
+        android:onClick="onBackButtonClick"
+        android:visibility="gone" />
+
+    <com.utility.view.CustomTextView
+        android:id="@+id/tv_header"
+        style="@style/header_tv_textstyle"
+        android:layout_width="@dimen/header_tv_name_width"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:singleLine="true"
+        android:text="CONNECTIONS"
+        android:textColor="#fff"
+        custom:fontFace="GOTHIC_0" >
+    </com.utility.view.CustomTextView>
+
+    <com.utility.view.CustomEditText
+        android:id="@+id/et_search_box"
+        android:layout_width="@dimen/header_et_width"
+        android:layout_height="@dimen/header_et_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/header_et_margin_right"
+        android:background="@drawable/fill"
+        android:drawableRight="@drawable/search_btn_header"
+        android:hint="Search Name"
+        android:paddingLeft="@dimen/header_et_margin_right"
+        android:paddingRight="@dimen/header_et_margin_right"
+        android:singleLine="true"
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:visibility="gone"
+        custom:fontFace="GOTHIC_0" >
+    </com.utility.view.CustomEditText>
+
+    <Button
+        android:id="@+id/btn_header_people"
+        android:layout_width="@dimen/header_btn_header_people_width"
+        android:layout_height="@dimen/header_btn_header_people_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/contact_0001"
+        android:padding="10dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_recycle"
+        android:layout_width="@dimen/header_saved_menu_btn_height"
+        android:layout_height="@dimen/header_saved_menu_btn_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/chat_btn_recycle_selector"
+        android:onClick="onTermSaveClick"
+        android:visibility="gone" />
+
+    <com.utility.view.CustomButton
+        android:id="@+id/btn_distrust"
+        style="@style/header_btn_distrust_style"
+        android:layout_width="@dimen/header_btn_distrust_width"
+        android:layout_height="@dimen/header_btn_distrust_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/update_info_btn_distrust_selector"
+        android:text="Distrust"
+        android:visibility="gone"
+        custom:fontFace="GOTHICB_0" />
+
+    <Button
+        android:id="@+id/btn_arrow"
+        android:layout_width="@dimen/header_saved_menu_btn_height"
+        android:layout_height="@dimen/header_saved_menu_btn_height"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/send_gretting_btn_arrow_selector"
+        android:onClick="onTermSaveClick"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash" >
+
+    <ProgressBar
+        android:id="@+id/pb_validating"
+        android:layout_width="@dimen/splash_pb_width"
+        android:layout_height="@dimen/splash_pb_width"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/splash_pb_validating_marginBottom"
+        android:visibility="gone" />
+
+    <com.utility.view.CustomTextView
+        android:id="@+id/tv_1"
+        style="@style/splash_spinner_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/pb_validating"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/splash_tv_1_marginTop"
+        android:text="Validating..."
+        android:visibility="gone"
+        custom:fontFace="GOTHIC_0" />
+
+    <com.utility.view.CustomTextView
+        android:id="@+id/textView1"
+        style="@style/splash_version_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/splash_textView1_marginBottom"
+        android:text="@string/version_code"
+        custom:fontFace="GOTHIC_0" />
+
+</RelativeLayout>

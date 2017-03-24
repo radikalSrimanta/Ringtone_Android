@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <dimen name="update_profile_imng_profile_picture_height">139.33dp</dimen>
+    <dimen name="update_profile_imng_profile_picture_width">133.33dp</dimen>
+    <dimen name="update_profile_imng_profile_picture_circle_height">118dp</dimen>
+    <dimen name="update_profile_imng_profile_picture_circle_width">118dp</dimen>
+    <dimen name="update_profile_imng_profile_picture_circle_marginTop">4dp</dimen>
+    <dimen name="update_profile_imng_profile_picture_circle_marginRight">1dp</dimen>
+    <dimen name="update_profile_image_ll_name_width">265dp</dimen>
+    <dimen name="update_profile_image_iv_logo_marginTop">15dp</dimen>
+    <dimen name="update_profile_btn_update_marginTop">16dp</dimen>
+
+    <integer name="update_profile_circle_paddingWidth">74</integer>
+    <integer name="update_profile_circle_paddingHeight">74</integer>
+
+    <dimen name="update_profile_iv_play_width">33.33dp</dimen>
+    <dimen name="update_profile_iv_play_height">33.33dp</dimen>
+    <dimen name="update_profile_iv_play_button_marginLeft">8dp</dimen>
+    <dimen name="update_profile_ll_marginTop">6dp</dimen>
+    <dimen name="update_profile_tv_upgrade_friend_width">281.33dp</dimen>
+    <dimen name="update_profile_tv_upgrade_friend_height">49.33dp</dimen>
+    <dimen name="update_profile_tv_upgrade_friend_paddingLeft">5dp</dimen>
+    <dimen name="update_profile_tv_upgrade_friend_paddingRight">50dp</dimen>
+    <dimen name="update_profile_tv_upgrade_friend_marginTop">3dp</dimen>
+    
+    
+    <dimen name="update_profile_tv_ringtone_width">164.33dp</dimen>
+     <dimen name="update_profile_tv_ringtone_height">20dp</dimen>
+     <dimen name="update_profile_tv_name_width">174.33dp</dimen>
+     <dimen name="update_profile_tv__width">174.33dp</dimen>
+     <dimen name="update_profile_tv_profile_pic_width">234dp</dimen>
+     <dimen name="update_profile_tv_send_greeting_width">193.66dp</dimen>
+     <dimen name="update_profile_ll_name_marginTop">4dp</dimen>
+     
+     <dimen name="update_profile_btn_rid_marginLeft">3dp</dimen>
+     
+     
+    
+
+    <style name="update_profile_tv_upgrade_friend_style">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">13.5sp</item>
+    </style>
+
+    <style name="update_profile_name_style">
+        <item name="android:textSize">22sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="update_profile_name_change_style">
+        <item name="android:textSize">20sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

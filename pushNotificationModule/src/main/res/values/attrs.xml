@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DropDownViewForXML">
+        <attr name="popupHeight" format="integer" />
+        <attr name="popupWdith" format="integer" />
+        <attr name="popup_background" format="integer" />
+    </declare-styleable>
+
+    <attr name="fontFace" format="enum">
+        <enum name="DROIDSANS_BOLD" value="0" />
+        <enum name="DROIDSANS" value="1" />
+        <enum name="HELVETICA_NEUE_BOLD_ITALIC" value="2" />
+        <enum name="HELVETICA_NEUE_BOLD" value="3" />
+        <enum name="HELVETICA_NEUE" value="4" />
+        <enum name="UBUNTU_REGULAR" value="5" />
+        <enum name="UBUNTU_REGULAR_BOLD" value="6" />
+        <enum name="GOTHIC_0" value="7" />
+        <enum name="GOTHICB_0" value="8" />
+        <enum name="GOTHICBI_0" value="9" />
+        <enum name="GOTHICI_0" value="10" />
+    </attr>
+
+    <declare-styleable name="CustomFont">
+        <attr name="fontFace" />
+        <attr name="trimLength" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="ViewfinderView"></declare-styleable>
+
+</resources>
