@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="enum" name="fontFace">
+        <enum name="DROIDSANS_BOLD" value="0"/>
+        <enum name="DROIDSANS" value="1"/>
+        <enum name="HELVETICA_NEUE_BOLD_ITALIC" value="2"/>
+        <enum name="HELVETICA_NEUE_BOLD" value="3"/>
+        <enum name="HELVETICA_NEUE" value="4"/>
+        <enum name="UBUNTU_REGULAR" value="5"/>
+        <enum name="UBUNTU_REGULAR_BOLD" value="6"/>
+        <enum name="GOTHIC_0" value="7"/>
+        <enum name="GOTHICB_0" value="8"/>
+        <enum name="GOTHICBI_0" value="9"/>
+        <enum name="GOTHICI_0" value="10"/>
+    </attr>
+    <declare-styleable name="CustomFont"><attr name="fontFace"/><attr format="integer" name="trimLength"/></declare-styleable>
+    <declare-styleable name="DropDownViewForXML"><attr format="integer" name="popupHeight"/><attr format="integer" name="popupWdith"/><attr format="integer" name="popup_background"/></declare-styleable>
+    <declare-styleable name="ViewfinderView"/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">PushNotificationModule</string>
+    <string name="hello_world">MyMainProject For PushModule</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -4,12 +4,20 @@
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\alert_custom.xml"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_dialog_layout.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_dialog_layout.xml"
     },
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\alert_custom.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\alert_custom.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_dialog_layout.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_dialog_layout.xml"
     },
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_notification_layout.xml",
@@ -20,12 +28,20 @@
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\alert_custom.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\alert_custom.xml"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_dialog_layout.xml",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_dialog_layout.xml"
     },
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_notification_layout.xml",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_notification_layout.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_notification_layout.xml"
     },
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",

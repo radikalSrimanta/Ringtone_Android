@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
@@ -12,12 +16,20 @@
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",

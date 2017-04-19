@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\src\\main\\aidl\\com\\android\\vending\\billing\\IInAppBillingService.aidl
+ * Original file: D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\src\\main\\aidl\\com\\android\\vending\\billing\\IInAppBillingService.aidl
  */
 package com.android.vending.billing;
 /**

@@ -6,5 +6,9 @@
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pushNotificationModule\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

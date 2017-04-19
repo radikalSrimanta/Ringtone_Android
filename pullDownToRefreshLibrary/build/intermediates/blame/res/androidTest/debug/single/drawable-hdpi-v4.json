@@ -8,6 +8,10 @@
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
     },
@@ -16,8 +20,16 @@
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
     },
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
@@ -26,6 +38,10 @@
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
     },
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",

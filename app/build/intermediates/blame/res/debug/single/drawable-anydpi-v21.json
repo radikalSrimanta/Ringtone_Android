@@ -20,6 +20,18 @@
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_ab_back_material.xml"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_clear_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
@@ -36,6 +48,18 @@
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_search_api_material.xml"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_ab_back_material.xml"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_voice_search_api_material.xml",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_voice_search_api_material.xml"
     },
@@ -46,6 +70,10 @@
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_menu_overflow_material.xml",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_search_api_material.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\abc_ic_search_api_material.xml",

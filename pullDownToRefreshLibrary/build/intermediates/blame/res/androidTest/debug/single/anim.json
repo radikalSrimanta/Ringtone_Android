@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
     },
@@ -24,11 +28,23 @@
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
     },
     {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\pullDownToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
     }
 ]

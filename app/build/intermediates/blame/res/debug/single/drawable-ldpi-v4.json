@@ -12,12 +12,20 @@
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_search_api_material.png"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_arrow_drop_right_black_24dp.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_arrow_drop_right_black_24dp.png"
+    },
+    {
         "merged": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
     },
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
     },
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_search_api_material.png",
@@ -36,6 +44,14 @@
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_search_api_material.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_search_api_material.png"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
     },
@@ -48,11 +64,23 @@
         "source": "E:\\Shared Folder\\srimanta_backup\\25.11.16\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
     },
     {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
     },
     {
         "merged": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
         "source": "E:\\srimanta workspace\\new_ringtoneapplication\\RingtoneApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "D:\\Ringtone_app\\RingtoneApplication\\Ringtone_Android\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
     }
 ]
